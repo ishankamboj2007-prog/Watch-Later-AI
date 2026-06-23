@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1778158929613,
+      "tag": "0000_red_redwing",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1778159117096,
+      "tag": "0001_yummy_krista_starr",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1778163314587,
+      "tag": "0002_next_living_lightning",
+      "breakpoints": true
+    }
+  ]
+}
